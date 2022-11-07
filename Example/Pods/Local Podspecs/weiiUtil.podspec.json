@@ -1,0 +1,22 @@
+{
+  "name": "weiiUtil",
+  "version": "0.1.0",
+  "summary": "A short description of weiiUtil.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/79503463/weiiUtil",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "79503463": "hihiweiping@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/79503463/weiiUtil.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "weiiUtil/Classes/**/*"
+}

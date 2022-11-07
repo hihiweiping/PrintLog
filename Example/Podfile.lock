@@ -1,0 +1,16 @@
+PODS:
+  - weiiUtil (0.1.0)
+
+DEPENDENCIES:
+  - weiiUtil (from `../`)
+
+EXTERNAL SOURCES:
+  weiiUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  weiiUtil: f0e0d0da3d89693e09ef2c82ad1591abce18a851
+
+PODFILE CHECKSUM: 544f94a5a3b5ca81bd8d0997069ad8516291b77e
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_weiiUtil_Example {
+  umbrella header "Pods-weiiUtil_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
