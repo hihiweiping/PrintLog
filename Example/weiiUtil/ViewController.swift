@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import weiiUtil
 
 class ViewController: UIViewController {
 

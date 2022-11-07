@@ -1,5 +1,5 @@
 PODS:
-  - weiiUtil (0.1.0)
+  - weiiUtil (0.0.1)
 
 DEPENDENCIES:
   - weiiUtil (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  weiiUtil: f0e0d0da3d89693e09ef2c82ad1591abce18a851
+  weiiUtil: 92e83e8a03304ba332451e9562ffb5f1d3555cfd
 
 PODFILE CHECKSUM: 544f94a5a3b5ca81bd8d0997069ad8516291b77e
 
